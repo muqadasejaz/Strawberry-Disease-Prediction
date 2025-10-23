@@ -1,0 +1,16 @@
+
+scikit-learn
+fastapi
+uvicorn
+ultralytics
+joblib 
+numpy 
+pillow
+opencv-python
+pydantic
+torch 
+torchvision  
+torchaudio   
+streamlit
+requests
+python-multipart  

@@ -1,0 +1,7 @@
+[server]
+port = 8501
+enableCORS = true
+maxUploadSize = 2000
+
+[theme]
+primaryColor = "#228B22"
